@@ -31,9 +31,9 @@ Function di class `Transaction` file `cashier.py` :
 4. Method `delete_item` & `reset_transaction`untuk menghapus item yang diinginkan dan semua item yang diinput.
 5. Method `check_order` untuk menampilkan keseluruhan list item yang diinput dalam bentuk tabular.
 6. Method `hitung_total_price` untuk melakukan perhitungan total harga serta diskon jika memenuhi kondisi:
-i. Jika `total_harga` > Rp.200.000  mendapatkan diskon 5%
-ii. Jika `total_harga` > Rp.300.000 mendapatkan diskon 8%
-iii. Jika `total_harga` > Rp.500.000  mendapatkan diskon 10%
+- Jika `total_harga` > Rp.200.000  mendapatkan diskon 5%
+- Jika `total_harga` > Rp.300.000 mendapatkan diskon 8%
+- Jika `total_harga` > Rp.500.000  mendapatkan diskon 10%
 
 #### FUNCTION:
 1. Function `__init__` untuk mendeklarasikan variabel utama dalam sebuah class.
