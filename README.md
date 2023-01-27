@@ -19,7 +19,7 @@ Cashier System ini merupakan perbaikan bisnis yang bertujuan memberikan kepuasan
 -- Branching, Function, Data Structure, Docstring, Modular Code
 
 ### FLOWCHART
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/https://drive.google.com/file/d/1F08kUj0Fi0y-x3gjjZKaWCocZme9h-yq/view?usp=share_link)
+![flowchart-project-1](https://github.com/MoryHandy13/FINAL-PROJECT-PYTHON-BIGH-/blob/main/FLOWCHART%20PROJECT%20(1).jpeg?raw=true)
 
 
 ### DESCRIPTION
