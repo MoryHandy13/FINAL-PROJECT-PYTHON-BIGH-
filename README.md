@@ -12,7 +12,7 @@ Cashier System ini merupakan perbaikan bisnis yang bertujuan memberikan kepuasan
 
 -- Bahasa Pemograman Python
 
--- Google Collaboratory
+-- Google Colaboratory
 
 -- Object Oriented Programming
 
